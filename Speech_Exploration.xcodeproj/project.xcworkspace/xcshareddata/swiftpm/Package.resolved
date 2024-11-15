@@ -1,0 +1,15 @@
+{
+  "originHash" : "0fdc6b5ff38edbdfa56041c1997869dd40760f8b38df28080437b9e7acf8c35c",
+  "pins" : [
+    {
+      "identity" : "k3pinyin",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/CrazyFanFan/K3Pinyin",
+      "state" : {
+        "revision" : "fd15be901768236ea21ff5a9010da66cf3f03308",
+        "version" : "2.0.0"
+      }
+    }
+  ],
+  "version" : 3
+}
