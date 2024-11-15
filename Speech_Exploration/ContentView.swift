@@ -12,6 +12,12 @@ struct ContentView: View {
     @State private var isRecording = false
     var ans = "请问最近的地铁站在哪里"
     
+    /*
+     Coba cari yang terbaik untuk Tone Checking
+     Gaharus pake speech, mau pake hugging face juga oke
+     */
+    
+    
     var body: some View {
         VStack {
             Text("Hanzi yang Diucapkan")
